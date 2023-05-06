@@ -4,5 +4,7 @@
 @import "{{ site.theme }}";
 
 header {
-  display: none;
+  	button {
+		display: none;
+	}
 }
