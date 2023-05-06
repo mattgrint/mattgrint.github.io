@@ -15,11 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 title: Exp Trading
 email: matt.grint@exp.trading
-description: >- Quantiative trading research and consultancy
+description: Quantiative trading research and consultancy
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: exptrading
-github_username:  mattgrint
+github_username:  exptrade
 
 # Build settings
 remote_theme: pages-themes/hacker@v0.2.0
