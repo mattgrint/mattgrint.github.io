@@ -1,8 +1,22 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# Quantitative Trading Research and Consultancy
+We are Quantitative Trading specialists, providing trading, research and development services across asset classes.
 
-layout: home
---
+# Services
+- High-frequency strategy research and development
+- Alternative data sourcing
+- Quantiative Development
+	- C++
+	- Python
+	- C#
+	- Java
+- Independent strategy evaluation
+- Statistical and backtesting frameworks
 
-Hello, world!-
+# Asset Classes
+- Liquid bonds
+- Interest Rate Derivatives
+- Cryptocurrencies
+
+# Contact
+[Email](mailto:matt.grint@exp.trading) 
