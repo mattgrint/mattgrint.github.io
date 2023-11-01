@@ -1,6 +1,6 @@
 ---
 # Quantitative Trading Research and Consultancy
-We are Quantitative Trading specialists, providing trading, research and development services across asset classes.
+We are Quantitative Research specialists, providing research and development services across asset classes.
 
 # Services
 - High-frequency trading strategy research and development
